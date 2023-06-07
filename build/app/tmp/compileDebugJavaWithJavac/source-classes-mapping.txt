@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+io/flutter/ninja/twitter/BuildConfig.java
+ io.flutter.ninja.twitter.BuildConfig
